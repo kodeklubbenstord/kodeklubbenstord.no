@@ -22,3 +22,16 @@ img {
     width:100%;
     height:auto;
 }
+
+.col-md-2 { /* sponsors */
+    text-align: center;
+}
+
+.col-md-2 img {
+    max-width: 200px;
+}
+
+.col-md-2 a {
+    margin-bottom: 2em;
+    display: block;
+}
